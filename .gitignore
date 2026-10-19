@@ -1,0 +1,17 @@
+# build output
+*.exe
+*.test
+*.out
+/dist/
+/ask
+
+# configuration: never commit these
+.env
+*.env
+*.key
+
+# editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
